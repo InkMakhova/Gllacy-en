@@ -6,7 +6,7 @@ const BackgroundColors = {
   GREY: '#9D8B84',
 }
 
-//слайдер
+//slider
 let slides = body
   .querySelectorAll('.slide-item');
 
@@ -37,7 +37,7 @@ controls.forEach((control, index) => {
   });
 });
 
-//модальное окно
+//modal
 const modal = body.querySelector('.modal-feedback');
 
 const showModalButton = body.querySelector('.button-feedback');
@@ -72,5 +72,3 @@ const escDownHandler = (evt) => {
 }
 
 showModalButton.addEventListener('click', clickOpenHandler);
-
-
