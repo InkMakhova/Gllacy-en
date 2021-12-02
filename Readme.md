@@ -1,5 +1,7 @@
 # The Gllacy project is an online store selling ice cream
 
+Demo: <a href="https://inkmakhova.github.io/gllacy-en/">https://inkmakhova.github.io/gllacy-en/</a>
+
 Gllacy is one of my first projects where I honed my HTML coding skills.
 
 The description of the project: the project consists of 2 pages (main and catalog page), static design (desktop only).
