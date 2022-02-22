@@ -23,4 +23,4 @@ Technical features:
 3. Cross-browser compatibility: Chrome, Brave, Firefox, Safari;
 5. JS is used for the slider and interaction with the feedback form;
 
-Project provided as part of the HTML Academy course <a href="https://htmlacademy.ru/intensive/htmlcss">HTML Academy</a>
+Project layout in <a href="https://www.figma.com/file/mmkaRtdChnDxDP0rym2Bu6/HTML-1-%2F-%D0%93%D0%BB%D0%B5%D0%B9%D1%81%D0%B8-(30)?node-id=0%3A1">Figma</a>
